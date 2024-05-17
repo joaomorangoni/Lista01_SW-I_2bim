@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\exe07\bin\Debug\net7.0\exe07.exe
+C:\Users\Aluno\Desktop\exe07\bin\Debug\net7.0\exe07.deps.json
+C:\Users\Aluno\Desktop\exe07\bin\Debug\net7.0\exe07.runtimeconfig.json
+C:\Users\Aluno\Desktop\exe07\bin\Debug\net7.0\exe07.dll
+C:\Users\Aluno\Desktop\exe07\bin\Debug\net7.0\exe07.pdb
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.dll
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\refint\exe07.dll
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.pdb
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\exe07.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exe07\obj\Debug\net7.0\ref\exe07.dll
