@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\exe10\bin\Debug\net7.0\exe10.exe
+C:\Users\Aluno\Desktop\exe10\bin\Debug\net7.0\exe10.deps.json
+C:\Users\Aluno\Desktop\exe10\bin\Debug\net7.0\exe10.runtimeconfig.json
+C:\Users\Aluno\Desktop\exe10\bin\Debug\net7.0\exe10.dll
+C:\Users\Aluno\Desktop\exe10\bin\Debug\net7.0\exe10.pdb
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.dll
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\refint\exe10.dll
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.pdb
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\exe10.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exe10\obj\Debug\net7.0\ref\exe10.dll
