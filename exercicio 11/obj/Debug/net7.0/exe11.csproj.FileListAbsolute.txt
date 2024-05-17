@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\exe11\bin\Debug\net7.0\exe11.exe
+C:\Users\Aluno\Desktop\exe11\bin\Debug\net7.0\exe11.deps.json
+C:\Users\Aluno\Desktop\exe11\bin\Debug\net7.0\exe11.runtimeconfig.json
+C:\Users\Aluno\Desktop\exe11\bin\Debug\net7.0\exe11.dll
+C:\Users\Aluno\Desktop\exe11\bin\Debug\net7.0\exe11.pdb
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.dll
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\refint\exe11.dll
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.pdb
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\exe11.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\exe11\obj\Debug\net7.0\ref\exe11.dll
