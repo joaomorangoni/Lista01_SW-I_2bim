@@ -14,9 +14,9 @@ class Animal {
     public string EmitirSom() {
         switch (Especie.ToLower()) {
             case "cachorro":
-                return "Au Au!";
+                return "Woof Woof!";
             case "gato":
-                return "Miau!";
+                return "Meow!";
             case "passaro":
                 return "Piu Piu!";
             default:
